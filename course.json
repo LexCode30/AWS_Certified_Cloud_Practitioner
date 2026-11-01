@@ -1,0 +1,1115 @@
+{
+  "name": "AWS Certified Cloud Practitioner",
+  "slug": "AWS_Certified_Cloud_Practitioner",
+  "url": "https://LexCode30.github.io/AWS_Certified_Cloud_Practitioner/",
+  "category": "cloud",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Introduction",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "AWS Certified Cloud Practitioner",
+          "id": "1-W21hBxID_xF0PG_s7JeVWgyXJwWRbHO",
+          "anchor": "v-1-W21hBxID_xF0PG_s7JeVWgyXJwWRbHO",
+          "href": "s1.html#v-1-W21hBxID_xF0PG_s7JeVWgyXJwWRbHO"
+        },
+        {
+          "number": 2,
+          "title": "Course Introduction",
+          "id": "1-ccABUCQaj0lwoz2Ha_Qb9Pu6mbF86k7",
+          "anchor": "v-1-ccABUCQaj0lwoz2Ha_Qb9Pu6mbF86k7",
+          "href": "s1.html#v-1-ccABUCQaj0lwoz2Ha_Qb9Pu6mbF86k7"
+        },
+        {
+          "number": 3,
+          "title": "Course Outline",
+          "id": "1-pEna9rn6nGgu8IFCd0GDfL_2yFDUyeU",
+          "anchor": "v-1-pEna9rn6nGgu8IFCd0GDfL_2yFDUyeU",
+          "href": "s1.html#v-1-pEna9rn6nGgu8IFCd0GDfL_2yFDUyeU"
+        },
+        {
+          "number": 4,
+          "title": "Demo Creating an AWS Account for Labs",
+          "id": "1-dQAfdGqmR9sWe9Jnbp63qWCAkoMJyqU",
+          "anchor": "v-1-dQAfdGqmR9sWe9Jnbp63qWCAkoMJyqU",
+          "href": "s1.html#v-1-dQAfdGqmR9sWe9Jnbp63qWCAkoMJyqU"
+        },
+        {
+          "number": 5,
+          "title": "Demo A Lap Around the AWS Console",
+          "id": "1-tncDuH8PxuVXEWHo2MnBSku_ZweRk7x",
+          "anchor": "v-1-tncDuH8PxuVXEWHo2MnBSku_ZweRk7x",
+          "href": "s1.html#v-1-tncDuH8PxuVXEWHo2MnBSku_ZweRk7x"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Cloud Concepts and Fundamentals",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "10R3pbl2UG_ZAkpDDduIVRFocBYaFUDlC",
+          "anchor": "v-10R3pbl2UG_ZAkpDDduIVRFocBYaFUDlC",
+          "href": "s2.html#v-10R3pbl2UG_ZAkpDDduIVRFocBYaFUDlC"
+        },
+        {
+          "number": 2,
+          "title": "The Core Components Required to Run Your Website",
+          "id": "10Nj13tncikAW9ZZF_A3LRF772eJG7ceM",
+          "anchor": "v-10Nj13tncikAW9ZZF_A3LRF772eJG7ceM",
+          "href": "s2.html#v-10Nj13tncikAW9ZZF_A3LRF772eJG7ceM"
+        },
+        {
+          "number": 3,
+          "title": "Moving to the Cloud - AWS",
+          "id": "10DuZQ3Ka-ui-SB5SEsThrAhaRiWcuhLx",
+          "anchor": "v-10DuZQ3Ka-ui-SB5SEsThrAhaRiWcuhLx",
+          "href": "s2.html#v-10DuZQ3Ka-ui-SB5SEsThrAhaRiWcuhLx"
+        },
+        {
+          "number": 4,
+          "title": "Foundational Services",
+          "id": "10NXZzTSiwUHrNSBwg9okjXB3wIoIl5T7",
+          "anchor": "v-10NXZzTSiwUHrNSBwg9okjXB3wIoIl5T7",
+          "href": "s2.html#v-10NXZzTSiwUHrNSBwg9okjXB3wIoIl5T7"
+        },
+        {
+          "number": 5,
+          "title": "Benefits of the Cloud",
+          "id": "100aeWf_zbKEgOCpexYp8EK8u9LJ7JU24",
+          "anchor": "v-100aeWf_zbKEgOCpexYp8EK8u9LJ7JU24",
+          "href": "s2.html#v-100aeWf_zbKEgOCpexYp8EK8u9LJ7JU24"
+        },
+        {
+          "number": 6,
+          "title": "Economics of AWS",
+          "id": "10AYCNv1XiHsnNV46qDSXGai1K-9imIpV",
+          "anchor": "v-10AYCNv1XiHsnNV46qDSXGai1K-9imIpV",
+          "href": "s2.html#v-10AYCNv1XiHsnNV46qDSXGai1K-9imIpV"
+        },
+        {
+          "number": 7,
+          "title": "AWS Well-Architected Framework",
+          "id": "10BBzD4DhragvRqTNtQI983Telktck4sR",
+          "anchor": "v-10BBzD4DhragvRqTNtQI983Telktck4sR",
+          "href": "s2.html#v-10BBzD4DhragvRqTNtQI983Telktck4sR"
+        },
+        {
+          "number": 8,
+          "title": "Important Points to Remember Cloud Concepts and Fundamentals",
+          "id": "10BOfNmjKlBvBZJxozlTYymkd0mswrPR3",
+          "anchor": "v-10BOfNmjKlBvBZJxozlTYymkd0mswrPR3",
+          "href": "s2.html#v-10BOfNmjKlBvBZJxozlTYymkd0mswrPR3"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Security and Compliance",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "10f1oeP5ODYDG47oA49OEGkpKSqi_2cVb",
+          "anchor": "v-10f1oeP5ODYDG47oA49OEGkpKSqi_2cVb",
+          "href": "s3.html#v-10f1oeP5ODYDG47oA49OEGkpKSqi_2cVb"
+        },
+        {
+          "number": 2,
+          "title": "AWS Shared Responsibility Model",
+          "id": "10ZmdPDLdqZvEa_h3tfpNGgf8Pa524Y4n",
+          "anchor": "v-10ZmdPDLdqZvEa_h3tfpNGgf8Pa524Y4n",
+          "href": "s3.html#v-10ZmdPDLdqZvEa_h3tfpNGgf8Pa524Y4n"
+        },
+        {
+          "number": 3,
+          "title": "Identity and Access Management IAM",
+          "id": "10XkFokA60w3EcCgiHcD3_N1iViw_E4Sg",
+          "anchor": "v-10XkFokA60w3EcCgiHcD3_N1iViw_E4Sg",
+          "href": "s3.html#v-10XkFokA60w3EcCgiHcD3_N1iViw_E4Sg"
+        },
+        {
+          "number": 4,
+          "title": "IAM Users",
+          "id": "11BSIux1kgTWuDtRSqfKqvk6c7M6_eyvE",
+          "anchor": "v-11BSIux1kgTWuDtRSqfKqvk6c7M6_eyvE",
+          "href": "s3.html#v-11BSIux1kgTWuDtRSqfKqvk6c7M6_eyvE"
+        },
+        {
+          "number": 5,
+          "title": "IAM User Groups",
+          "id": "10VmTEUjkYLGmYkU2Jxf_YDuY-C2E6wyv",
+          "anchor": "v-10VmTEUjkYLGmYkU2Jxf_YDuY-C2E6wyv",
+          "href": "s3.html#v-10VmTEUjkYLGmYkU2Jxf_YDuY-C2E6wyv"
+        },
+        {
+          "number": 6,
+          "title": "IAM Roles",
+          "id": "11KWMk0gUJpyb3-ERMAPR-U5plmcpJCDs",
+          "anchor": "v-11KWMk0gUJpyb3-ERMAPR-U5plmcpJCDs",
+          "href": "s3.html#v-11KWMk0gUJpyb3-ERMAPR-U5plmcpJCDs"
+        },
+        {
+          "number": 7,
+          "title": "IAM Policies",
+          "id": "11kAa4b5xtdNnzCRMSxkZDletSfvtQiK_",
+          "anchor": "v-11kAa4b5xtdNnzCRMSxkZDletSfvtQiK_",
+          "href": "s3.html#v-11kAa4b5xtdNnzCRMSxkZDletSfvtQiK_"
+        },
+        {
+          "number": 8,
+          "title": "Multi-Factor Authentication MFA",
+          "id": "10t80_kiRHByXl7JTjK8yzf5mVK03mFMo",
+          "anchor": "v-10t80_kiRHByXl7JTjK8yzf5mVK03mFMo",
+          "href": "s3.html#v-10t80_kiRHByXl7JTjK8yzf5mVK03mFMo"
+        },
+        {
+          "number": 9,
+          "title": "Demo Enabling Multi-Factor Authentication",
+          "id": "11kqgc179I_BJb9FUZk8JKhPTZlMFLt6L",
+          "anchor": "v-11kqgc179I_BJb9FUZk8JKhPTZlMFLt6L",
+          "href": "s3.html#v-11kqgc179I_BJb9FUZk8JKhPTZlMFLt6L"
+        },
+        {
+          "number": 10,
+          "title": "Access Keys",
+          "id": "11nB5jRyUcC8EJtmb5wvWpGX2xBbfAcIp",
+          "anchor": "v-11nB5jRyUcC8EJtmb5wvWpGX2xBbfAcIp",
+          "href": "s3.html#v-11nB5jRyUcC8EJtmb5wvWpGX2xBbfAcIp"
+        },
+        {
+          "number": 11,
+          "title": "IAM Best Practices",
+          "id": "11kLr4nrCxa9vv79gkBntymXjW_6Bi16x",
+          "anchor": "v-11kLr4nrCxa9vv79gkBntymXjW_6Bi16x",
+          "href": "s3.html#v-11kLr4nrCxa9vv79gkBntymXjW_6Bi16x"
+        },
+        {
+          "number": 12,
+          "title": "AWS Security Identity & Compliance Services",
+          "id": "11zGEmdE5Jks9s7Vn_XlLa7r-J9-0ppzB",
+          "anchor": "v-11zGEmdE5Jks9s7Vn_XlLa7r-J9-0ppzB",
+          "href": "s3.html#v-11zGEmdE5Jks9s7Vn_XlLa7r-J9-0ppzB"
+        },
+        {
+          "number": 13,
+          "title": "Distributed Denial of Service DDoS",
+          "id": "11y_5pFDodwV2EWjqsz_Qs4qNvTOK0S04",
+          "anchor": "v-11y_5pFDodwV2EWjqsz_Qs4qNvTOK0S04",
+          "href": "s3.html#v-11y_5pFDodwV2EWjqsz_Qs4qNvTOK0S04"
+        },
+        {
+          "number": 14,
+          "title": "AWS Web Application Firewall WAF",
+          "id": "10jjKoYh1H_h5jWRrPDPmxZaWqXfcVYyL",
+          "anchor": "v-10jjKoYh1H_h5jWRrPDPmxZaWqXfcVYyL",
+          "href": "s3.html#v-10jjKoYh1H_h5jWRrPDPmxZaWqXfcVYyL"
+        },
+        {
+          "number": 15,
+          "title": "AWS Key Management System KMS",
+          "id": "12B-4d6Yn83a4_CwtGM9NudkwpximMPHi",
+          "anchor": "v-12B-4d6Yn83a4_CwtGM9NudkwpximMPHi",
+          "href": "s3.html#v-12B-4d6Yn83a4_CwtGM9NudkwpximMPHi"
+        },
+        {
+          "number": 16,
+          "title": "Demo Working with Keys in AWS KMS",
+          "id": "12Qg2JVEW-ckLvqrGp1d_HsdRZyxXhgBV",
+          "anchor": "v-12Qg2JVEW-ckLvqrGp1d_HsdRZyxXhgBV",
+          "href": "s3.html#v-12Qg2JVEW-ckLvqrGp1d_HsdRZyxXhgBV"
+        },
+        {
+          "number": 17,
+          "title": "Understanding Certificates",
+          "id": "126JrgGB2WB2xwAOl2zNMTBKvJ3OuPYa2",
+          "anchor": "v-126JrgGB2WB2xwAOl2zNMTBKvJ3OuPYa2",
+          "href": "s3.html#v-126JrgGB2WB2xwAOl2zNMTBKvJ3OuPYa2"
+        },
+        {
+          "number": 18,
+          "title": "AWS Secrets Manager",
+          "id": "12NogkzBmNC0tX6HSA-OzJhfkwaTZdsAI",
+          "anchor": "v-12NogkzBmNC0tX6HSA-OzJhfkwaTZdsAI",
+          "href": "s3.html#v-12NogkzBmNC0tX6HSA-OzJhfkwaTZdsAI"
+        },
+        {
+          "number": 19,
+          "title": "Demo Working with AWS Secrets Manager",
+          "id": "12dbmzEhGhHF9s9ZcyCeJhHF_ziSRxa9G",
+          "anchor": "v-12dbmzEhGhHF9s9ZcyCeJhHF_ziSRxa9G",
+          "href": "s3.html#v-12dbmzEhGhHF9s9ZcyCeJhHF_ziSRxa9G"
+        },
+        {
+          "number": 20,
+          "title": "Personally Identifiable Information PII",
+          "id": "1231lz6QhH5WGY66qszLkPxFRXvg8eW3B",
+          "anchor": "v-1231lz6QhH5WGY66qszLkPxFRXvg8eW3B",
+          "href": "s3.html#v-1231lz6QhH5WGY66qszLkPxFRXvg8eW3B"
+        },
+        {
+          "number": 21,
+          "title": "Amazon Inspector",
+          "id": "12MT3-m-wHYKovsRDq3E1Q7m7hGsPNFRQ",
+          "anchor": "v-12MT3-m-wHYKovsRDq3E1Q7m7hGsPNFRQ",
+          "href": "s3.html#v-12MT3-m-wHYKovsRDq3E1Q7m7hGsPNFRQ"
+        },
+        {
+          "number": 22,
+          "title": "Amazon Guardduty",
+          "id": "12_aqFDmOT7Yq_tSABNTo2fdCONrg_iTg",
+          "anchor": "v-12_aqFDmOT7Yq_tSABNTo2fdCONrg_iTg",
+          "href": "s3.html#v-12_aqFDmOT7Yq_tSABNTo2fdCONrg_iTg"
+        },
+        {
+          "number": 23,
+          "title": "AWS Configuration",
+          "id": "12WkZGDXAUDj4g9ptQb1UuUu7wOQFJhJ0",
+          "anchor": "v-12WkZGDXAUDj4g9ptQb1UuUu7wOQFJhJ0",
+          "href": "s3.html#v-12WkZGDXAUDj4g9ptQb1UuUu7wOQFJhJ0"
+        },
+        {
+          "number": 24,
+          "title": "Demo Working with AWS Config",
+          "id": "12jaYqxBWMCV-hM1kpbli8KvN9Vaz-AJH",
+          "anchor": "v-12jaYqxBWMCV-hM1kpbli8KvN9Vaz-AJH",
+          "href": "s3.html#v-12jaYqxBWMCV-hM1kpbli8KvN9Vaz-AJH"
+        },
+        {
+          "number": 25,
+          "title": "AWS Security Hub",
+          "id": "12seLjmhx0HwYxGpDpO-b8aWa9ku0EqNW",
+          "anchor": "v-12seLjmhx0HwYxGpDpO-b8aWa9ku0EqNW",
+          "href": "s3.html#v-12seLjmhx0HwYxGpDpO-b8aWa9ku0EqNW"
+        },
+        {
+          "number": 26,
+          "title": "Demo A Tour of AWS Security Hub",
+          "id": "12sOHTJGrTYBKrNCg_TfLmp_xTXFrkaLy",
+          "anchor": "v-12sOHTJGrTYBKrNCg_TfLmp_xTXFrkaLy",
+          "href": "s3.html#v-12sOHTJGrTYBKrNCg_TfLmp_xTXFrkaLy"
+        },
+        {
+          "number": 27,
+          "title": "Amazon Detective",
+          "id": "12mkUCMEadnZoL_L1XyML859eqb67Zzcv",
+          "anchor": "v-12mkUCMEadnZoL_L1XyML859eqb67Zzcv",
+          "href": "s3.html#v-12mkUCMEadnZoL_L1XyML859eqb67Zzcv"
+        },
+        {
+          "number": 28,
+          "title": "AWS Artifact",
+          "id": "12vYB3ek6gBTfYfrt5vMPuP4fCHfV19Hn",
+          "anchor": "v-12vYB3ek6gBTfYfrt5vMPuP4fCHfV19Hn",
+          "href": "s3.html#v-12vYB3ek6gBTfYfrt5vMPuP4fCHfV19Hn"
+        },
+        {
+          "number": 29,
+          "title": "Demo A Tour of AWS Artifact",
+          "id": "13-yY4JuEajZIKIzmU-hLO3LqN3Zl40vm",
+          "anchor": "v-13-yY4JuEajZIKIzmU-hLO3LqN3Zl40vm",
+          "href": "s3.html#v-13-yY4JuEajZIKIzmU-hLO3LqN3Zl40vm"
+        },
+        {
+          "number": 30,
+          "title": "Important Points to Remember Security and Compliance",
+          "id": "13807JWCuwfCSoKEvCn5cRqlnUT_Bhj3v",
+          "anchor": "v-13807JWCuwfCSoKEvCn5cRqlnUT_Bhj3v",
+          "href": "s3.html#v-13807JWCuwfCSoKEvCn5cRqlnUT_Bhj3v"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "Technology",
+      "page": "s4.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "15dJROFSFB89gdWc6F_mbMUNTTyyJJ3bf",
+          "anchor": "v-15dJROFSFB89gdWc6F_mbMUNTTyyJJ3bf",
+          "href": "s4.html#v-15dJROFSFB89gdWc6F_mbMUNTTyyJJ3bf"
+        },
+        {
+          "number": 2,
+          "title": "Ways to Work with AWS",
+          "id": "15NyCra17J9lKV150xAN4yWWcKYif2w_P",
+          "anchor": "v-15NyCra17J9lKV150xAN4yWWcKYif2w_P",
+          "href": "s4.html#v-15NyCra17J9lKV150xAN4yWWcKYif2w_P"
+        },
+        {
+          "number": 3,
+          "title": "Demo Installing the AWS CLI on Windows",
+          "id": "15HNvi8kV5xx7FAwVe5yyf4sRvB8CGsP6",
+          "anchor": "v-15HNvi8kV5xx7FAwVe5yyf4sRvB8CGsP6",
+          "href": "s4.html#v-15HNvi8kV5xx7FAwVe5yyf4sRvB8CGsP6"
+        },
+        {
+          "number": 4,
+          "title": "Demo Installing the AWS CLI on Linux",
+          "id": "15j0qMxxrIPdp2v3WQiu1ORDC3zHuHpap",
+          "anchor": "v-15j0qMxxrIPdp2v3WQiu1ORDC3zHuHpap",
+          "href": "s4.html#v-15j0qMxxrIPdp2v3WQiu1ORDC3zHuHpap"
+        },
+        {
+          "number": 5,
+          "title": "Demo Installing the AWS CLI on Mac",
+          "id": "15iwn-iRCLn4FycagxDSGhLoC_ZdSvvpW",
+          "anchor": "v-15iwn-iRCLn4FycagxDSGhLoC_ZdSvvpW",
+          "href": "s4.html#v-15iwn-iRCLn4FycagxDSGhLoC_ZdSvvpW"
+        },
+        {
+          "number": 6,
+          "title": "Demo Configuring the AWS CLI on Windows Mac Linux",
+          "id": "15lZ5fusumFLGWx4ImR5b95Ab7ogZTWf3",
+          "anchor": "v-15lZ5fusumFLGWx4ImR5b95Ab7ogZTWf3",
+          "href": "s4.html#v-15lZ5fusumFLGWx4ImR5b95Ab7ogZTWf3"
+        },
+        {
+          "number": 7,
+          "title": "Demo Working with AWS CloudShell",
+          "id": "15sv6-Vf2A2SZUqJUHy6uxmhWl1QnUZCk",
+          "anchor": "v-15sv6-Vf2A2SZUqJUHy6uxmhWl1QnUZCk",
+          "href": "s4.html#v-15sv6-Vf2A2SZUqJUHy6uxmhWl1QnUZCk"
+        },
+        {
+          "number": 8,
+          "title": "Cloud Deployment Models",
+          "id": "161JlmkB0lqAHM49JJlbnMWrQcUKj3j8r",
+          "anchor": "v-161JlmkB0lqAHM49JJlbnMWrQcUKj3j8r",
+          "href": "s4.html#v-161JlmkB0lqAHM49JJlbnMWrQcUKj3j8r"
+        },
+        {
+          "number": 9,
+          "title": "AWS Connectivity Options",
+          "id": "15xlolt7meIWJmx4gc3d8qw16puVUYfGC",
+          "anchor": "v-15xlolt7meIWJmx4gc3d8qw16puVUYfGC",
+          "href": "s4.html#v-15xlolt7meIWJmx4gc3d8qw16puVUYfGC"
+        },
+        {
+          "number": 10,
+          "title": "AWS Infrastructure Concepts",
+          "id": "15wz7Jio6Wh5ZJtUGz4Q-okdiKhcFDb_7",
+          "anchor": "v-15wz7Jio6Wh5ZJtUGz4Q-okdiKhcFDb_7",
+          "href": "s4.html#v-15wz7Jio6Wh5ZJtUGz4Q-okdiKhcFDb_7"
+        },
+        {
+          "number": 11,
+          "title": "Important Points to Remember Technology",
+          "id": "166_R59cD9Cg45S5Ud3OAgwWzkO4uZ8Nk",
+          "anchor": "v-166_R59cD9Cg45S5Ud3OAgwWzkO4uZ8Nk",
+          "href": "s4.html#v-166_R59cD9Cg45S5Ud3OAgwWzkO4uZ8Nk"
+        },
+        {
+          "number": 12,
+          "title": "Exercise Imposter Syndrome",
+          "id": "167rLPmwRMNvVQMYkho9EQTXup3ea0tNN",
+          "anchor": "v-167rLPmwRMNvVQMYkho9EQTXup3ea0tNN",
+          "href": "s4.html#v-167rLPmwRMNvVQMYkho9EQTXup3ea0tNN"
+        },
+        {
+          "number": 13,
+          "title": "EC2 Elastic Compute Cloud",
+          "id": "169dmWlpvbPcrwwgxrcrG_K4koKPUiCVV",
+          "anchor": "v-169dmWlpvbPcrwwgxrcrG_K4koKPUiCVV",
+          "href": "s4.html#v-169dmWlpvbPcrwwgxrcrG_K4koKPUiCVV"
+        },
+        {
+          "number": 14,
+          "title": "Demo Create an EC2 Instance",
+          "id": "16CZtJDFtIJZQbJv088MVst8mMhWHYpju",
+          "anchor": "v-16CZtJDFtIJZQbJv088MVst8mMhWHYpju",
+          "href": "s4.html#v-16CZtJDFtIJZQbJv088MVst8mMhWHYpju"
+        },
+        {
+          "number": 15,
+          "title": "SSH Secure Shell",
+          "id": "16EvPSfau03pDIQT31DPZuRd2P93hRO0b",
+          "anchor": "v-16EvPSfau03pDIQT31DPZuRd2P93hRO0b",
+          "href": "s4.html#v-16EvPSfau03pDIQT31DPZuRd2P93hRO0b"
+        },
+        {
+          "number": 16,
+          "title": "Demo SSH Connection from Linux",
+          "id": "16If8SI4sPxEGblvKEqBnL88B2YkDa8d2",
+          "anchor": "v-16If8SI4sPxEGblvKEqBnL88B2YkDa8d2",
+          "href": "s4.html#v-16If8SI4sPxEGblvKEqBnL88B2YkDa8d2"
+        },
+        {
+          "number": 17,
+          "title": "Demo SSH Connection from Mac",
+          "id": "16CtBtG2qFZL0m4pT0nfg62yaXagELpnU",
+          "anchor": "v-16CtBtG2qFZL0m4pT0nfg62yaXagELpnU",
+          "href": "s4.html#v-16CtBtG2qFZL0m4pT0nfg62yaXagELpnU"
+        },
+        {
+          "number": 18,
+          "title": "Demo SSH Connection from Windows 10 or Higher",
+          "id": "16S-yjR2SKjq9GP9eakMI-FDH0PpiDV-i",
+          "anchor": "v-16S-yjR2SKjq9GP9eakMI-FDH0PpiDV-i",
+          "href": "s4.html#v-16S-yjR2SKjq9GP9eakMI-FDH0PpiDV-i"
+        },
+        {
+          "number": 19,
+          "title": "Demo SSH Connection from Windows 8 or Earlier PuTTY",
+          "id": "16WdAvUzTLC32CsvOSVCMmsZByKrGFZR3",
+          "anchor": "v-16WdAvUzTLC32CsvOSVCMmsZByKrGFZR3",
+          "href": "s4.html#v-16WdAvUzTLC32CsvOSVCMmsZByKrGFZR3"
+        },
+        {
+          "number": 20,
+          "title": "Demo EC2 Instance Connect with Linux",
+          "id": "16Q_GzvKV0lM1YzYXfQjPPy6-lAU0Cee0",
+          "anchor": "v-16Q_GzvKV0lM1YzYXfQjPPy6-lAU0Cee0",
+          "href": "s4.html#v-16Q_GzvKV0lM1YzYXfQjPPy6-lAU0Cee0"
+        },
+        {
+          "number": 21,
+          "title": "Demo Remote Desktop with Windows",
+          "id": "16ZdO4DlXAupwCbI14nLYIF0kxgM2ZZBe",
+          "anchor": "v-16ZdO4DlXAupwCbI14nLYIF0kxgM2ZZBe",
+          "href": "s4.html#v-16ZdO4DlXAupwCbI14nLYIF0kxgM2ZZBe"
+        },
+        {
+          "number": 22,
+          "title": "Elastic Load Balancing",
+          "id": "16XRU3E-TlN-rTH9ZPI-X7rSkIjo3Z4Ha",
+          "anchor": "v-16XRU3E-TlN-rTH9ZPI-X7rSkIjo3Z4Ha",
+          "href": "s4.html#v-16XRU3E-TlN-rTH9ZPI-X7rSkIjo3Z4Ha"
+        },
+        {
+          "number": 23,
+          "title": "Demo Creating an Application Load Balancer",
+          "id": "16b2VS8GlJ5Oc6v7Byv_MSTbjacb1GgwP",
+          "anchor": "v-16b2VS8GlJ5Oc6v7Byv_MSTbjacb1GgwP",
+          "href": "s4.html#v-16b2VS8GlJ5Oc6v7Byv_MSTbjacb1GgwP"
+        },
+        {
+          "number": 24,
+          "title": "ASG Auto Scaling Groups",
+          "id": "16cHW1Wo9iyZ4QSFY6CLt2DcKOVh77YgS",
+          "anchor": "v-16cHW1Wo9iyZ4QSFY6CLt2DcKOVh77YgS",
+          "href": "s4.html#v-16cHW1Wo9iyZ4QSFY6CLt2DcKOVh77YgS"
+        },
+        {
+          "number": 25,
+          "title": "Demo Creating an Auto Scaling Group",
+          "id": "16kwHjSR2gz6JyHJfXYpFdMsKYMoLegYF",
+          "anchor": "v-16kwHjSR2gz6JyHJfXYpFdMsKYMoLegYF",
+          "href": "s4.html#v-16kwHjSR2gz6JyHJfXYpFdMsKYMoLegYF"
+        },
+        {
+          "number": 26,
+          "title": "AWS Elastic Beanstalk",
+          "id": "16qGugpgbQxgcAW2FiNf0MU3mWnvLJ-ze",
+          "anchor": "v-16qGugpgbQxgcAW2FiNf0MU3mWnvLJ-ze",
+          "href": "s4.html#v-16qGugpgbQxgcAW2FiNf0MU3mWnvLJ-ze"
+        },
+        {
+          "number": 27,
+          "title": "Demo Creating an Elastic Beanstalk Application",
+          "id": "16rjf1V8ydpn28HXpNKZeR0mrrHcLQ6ra",
+          "anchor": "v-16rjf1V8ydpn28HXpNKZeR0mrrHcLQ6ra",
+          "href": "s4.html#v-16rjf1V8ydpn28HXpNKZeR0mrrHcLQ6ra"
+        },
+        {
+          "number": 28,
+          "title": "AWS Batch",
+          "id": "17PLi0P5_wZRpy20dXTVi8SL3JCwlT9pB",
+          "anchor": "v-17PLi0P5_wZRpy20dXTVi8SL3JCwlT9pB",
+          "href": "s4.html#v-17PLi0P5_wZRpy20dXTVi8SL3JCwlT9pB"
+        },
+        {
+          "number": 29,
+          "title": "Amazon Lightsail",
+          "id": "177frrQlkFSl_2nbsBdXYPrcN_UNl_PKt",
+          "anchor": "v-177frrQlkFSl_2nbsBdXYPrcN_UNl_PKt",
+          "href": "s4.html#v-177frrQlkFSl_2nbsBdXYPrcN_UNl_PKt"
+        },
+        {
+          "number": 30,
+          "title": "Amazon WorkSpaces",
+          "id": "16tGmRZZ8lSk76lsm9WUSjV6mc31pKqH-",
+          "anchor": "v-16tGmRZZ8lSk76lsm9WUSjV6mc31pKqH-",
+          "href": "s4.html#v-16tGmRZZ8lSk76lsm9WUSjV6mc31pKqH-"
+        },
+        {
+          "number": 31,
+          "title": "Serverless AWS Lambda",
+          "id": "17PY5Cc2LXJDAKDOmb8WZAniUesw-F1Nx",
+          "anchor": "v-17PY5Cc2LXJDAKDOmb8WZAniUesw-F1Nx",
+          "href": "s4.html#v-17PY5Cc2LXJDAKDOmb8WZAniUesw-F1Nx"
+        },
+        {
+          "number": 32,
+          "title": "Demo Creating an AWS Lambda Function",
+          "id": "17WK_MkJNmm26EfJlNb_i0bqeuxvpB0Cb",
+          "anchor": "v-17WK_MkJNmm26EfJlNb_i0bqeuxvpB0Cb",
+          "href": "s4.html#v-17WK_MkJNmm26EfJlNb_i0bqeuxvpB0Cb"
+        },
+        {
+          "number": 33,
+          "title": "Containers",
+          "id": "17YhJerj-BW3T2gUZ7Cfm0_5B5EZMl_Uz",
+          "anchor": "v-17YhJerj-BW3T2gUZ7Cfm0_5B5EZMl_Uz",
+          "href": "s4.html#v-17YhJerj-BW3T2gUZ7Cfm0_5B5EZMl_Uz"
+        },
+        {
+          "number": 34,
+          "title": "Containers on AWS ECS EKS Fargate ECR",
+          "id": "17fzU9QBH9rhmTMP9hCUkmQ3ygkwqGm8A",
+          "anchor": "v-17fzU9QBH9rhmTMP9hCUkmQ3ygkwqGm8A",
+          "href": "s4.html#v-17fzU9QBH9rhmTMP9hCUkmQ3ygkwqGm8A"
+        },
+        {
+          "number": 35,
+          "title": "Important Points to Remember Compute",
+          "id": "17d04Jgoi46Hm6YXmfpDo7i4PihtiTyxF",
+          "anchor": "v-17d04Jgoi46Hm6YXmfpDo7i4PihtiTyxF",
+          "href": "s4.html#v-17d04Jgoi46Hm6YXmfpDo7i4PihtiTyxF"
+        },
+        {
+          "number": 36,
+          "title": "S3 Simple Storage Service",
+          "id": "17_sIg6Po04FBu8yyHD4_yaoDogQrNMMp",
+          "anchor": "v-17_sIg6Po04FBu8yyHD4_yaoDogQrNMMp",
+          "href": "s4.html#v-17_sIg6Po04FBu8yyHD4_yaoDogQrNMMp"
+        },
+        {
+          "number": 37,
+          "title": "Demo Creating an S3 Bucket",
+          "id": "17o5ckeeZsoMrlPy5KgrpfbyKOnilZVhT",
+          "anchor": "v-17o5ckeeZsoMrlPy5KgrpfbyKOnilZVhT",
+          "href": "s4.html#v-17o5ckeeZsoMrlPy5KgrpfbyKOnilZVhT"
+        },
+        {
+          "number": 38,
+          "title": "Demo Hosting a Static Website on S3",
+          "id": "17pxkoipIN2DtC6J-rnxSrCsvQgQzaKEw",
+          "anchor": "v-17pxkoipIN2DtC6J-rnxSrCsvQgQzaKEw",
+          "href": "s4.html#v-17pxkoipIN2DtC6J-rnxSrCsvQgQzaKEw"
+        },
+        {
+          "number": 39,
+          "title": "S3 Storage Classes Transfer Acceleration Replication",
+          "id": "17vjQaF21_hPX6MwjKu1kuQ9d1hEDMhPs",
+          "anchor": "v-17vjQaF21_hPX6MwjKu1kuQ9d1hEDMhPs",
+          "href": "s4.html#v-17vjQaF21_hPX6MwjKu1kuQ9d1hEDMhPs"
+        },
+        {
+          "number": 40,
+          "title": "EBS Elastic Block Store",
+          "id": "17tP8DzhZTRQyGyzZZHic37_7EbhiUkxR",
+          "anchor": "v-17tP8DzhZTRQyGyzZZHic37_7EbhiUkxR",
+          "href": "s4.html#v-17tP8DzhZTRQyGyzZZHic37_7EbhiUkxR"
+        },
+        {
+          "number": 41,
+          "title": "Demo Creating and Attaching an EBS Volume",
+          "id": "17ztwBICHGpMD1cm9FmAFuKOA4Nw6ZQ1X",
+          "anchor": "v-17ztwBICHGpMD1cm9FmAFuKOA4Nw6ZQ1X",
+          "href": "s4.html#v-17ztwBICHGpMD1cm9FmAFuKOA4Nw6ZQ1X"
+        },
+        {
+          "number": 42,
+          "title": "Elastic File System EFS",
+          "id": "18VLIA8PMrJKNdQ-wRJrcOIrNz4lbKk0b",
+          "anchor": "v-18VLIA8PMrJKNdQ-wRJrcOIrNz4lbKk0b",
+          "href": "s4.html#v-18VLIA8PMrJKNdQ-wRJrcOIrNz4lbKk0b"
+        },
+        {
+          "number": 43,
+          "title": "Amazon FSx",
+          "id": "18RMymDXuFcCFfYkGnOmVBSxmDX3q9CUQ",
+          "anchor": "v-18RMymDXuFcCFfYkGnOmVBSxmDX3q9CUQ",
+          "href": "s4.html#v-18RMymDXuFcCFfYkGnOmVBSxmDX3q9CUQ"
+        },
+        {
+          "number": 44,
+          "title": "Storage Gateway",
+          "id": "18QSNDnJ_Q6ucfKzLwgLpugoLB2gP4KwE",
+          "anchor": "v-18QSNDnJ_Q6ucfKzLwgLpugoLB2gP4KwE",
+          "href": "s4.html#v-18QSNDnJ_Q6ucfKzLwgLpugoLB2gP4KwE"
+        },
+        {
+          "number": 45,
+          "title": "Snow Family of Products",
+          "id": "18A7xIVQYUb1NIEzy10LKPt73yauFoBct",
+          "anchor": "v-18A7xIVQYUb1NIEzy10LKPt73yauFoBct",
+          "href": "s4.html#v-18A7xIVQYUb1NIEzy10LKPt73yauFoBct"
+        },
+        {
+          "number": 46,
+          "title": "AWS Backup",
+          "id": "189C8q7rEauoDOhaVywPNb9EAO_MP7PVX",
+          "anchor": "v-189C8q7rEauoDOhaVywPNb9EAO_MP7PVX",
+          "href": "s4.html#v-189C8q7rEauoDOhaVywPNb9EAO_MP7PVX"
+        },
+        {
+          "number": 47,
+          "title": "Important Points to Remember Storage",
+          "id": "18WqyVN_GKjCoojje1ACX7XTjRyuiN5sf",
+          "anchor": "v-18WqyVN_GKjCoojje1ACX7XTjRyuiN5sf",
+          "href": "s4.html#v-18WqyVN_GKjCoojje1ACX7XTjRyuiN5sf"
+        },
+        {
+          "number": 48,
+          "title": "VPC Virtual Private Cloud",
+          "id": "18YJs2Sovk-hI2a0Gygg7P8Gt3K4GPNlM",
+          "anchor": "v-18YJs2Sovk-hI2a0Gygg7P8Gt3K4GPNlM",
+          "href": "s4.html#v-18YJs2Sovk-hI2a0Gygg7P8Gt3K4GPNlM"
+        },
+        {
+          "number": 49,
+          "title": "Internet Gateway NAT Gateway and VPC Endpoints",
+          "id": "18vtZYHgLkmcJqw1NtbL4_WsWy_6xcdr-",
+          "anchor": "v-18vtZYHgLkmcJqw1NtbL4_WsWy_6xcdr-",
+          "href": "s4.html#v-18vtZYHgLkmcJqw1NtbL4_WsWy_6xcdr-"
+        },
+        {
+          "number": 50,
+          "title": "Network ACLs and Security Groups",
+          "id": "18j9sZE316S0rSCGvNTakTZAKGMXnYjcI",
+          "anchor": "v-18j9sZE316S0rSCGvNTakTZAKGMXnYjcI",
+          "href": "s4.html#v-18j9sZE316S0rSCGvNTakTZAKGMXnYjcI"
+        },
+        {
+          "number": 51,
+          "title": "VPC Flow Logs and Peering",
+          "id": "18gvYUa7EaFj_eq0qfHn3Atl9GH4zVBRv",
+          "anchor": "v-18gvYUa7EaFj_eq0qfHn3Atl9GH4zVBRv",
+          "href": "s4.html#v-18gvYUa7EaFj_eq0qfHn3Atl9GH4zVBRv"
+        },
+        {
+          "number": 52,
+          "title": "Amazon API Gateway",
+          "id": "18yTCr45Jtn99YHia-LJSPIdX9e3kZsmG",
+          "anchor": "v-18yTCr45Jtn99YHia-LJSPIdX9e3kZsmG",
+          "href": "s4.html#v-18yTCr45Jtn99YHia-LJSPIdX9e3kZsmG"
+        },
+        {
+          "number": 53,
+          "title": "CloudFront",
+          "id": "18yQ-j5d3G1idaGeg_LUxJL0ZHohsXj30",
+          "anchor": "v-18yQ-j5d3G1idaGeg_LUxJL0ZHohsXj30",
+          "href": "s4.html#v-18yQ-j5d3G1idaGeg_LUxJL0ZHohsXj30"
+        },
+        {
+          "number": 54,
+          "title": "Demo Working with CloudFront",
+          "id": "19B-8RACFVKwCs0Z7j-bn5hdvhQ46op9L",
+          "anchor": "v-19B-8RACFVKwCs0Z7j-bn5hdvhQ46op9L",
+          "href": "s4.html#v-19B-8RACFVKwCs0Z7j-bn5hdvhQ46op9L"
+        },
+        {
+          "number": 55,
+          "title": "AWS Global Accelerator",
+          "id": "19fw7FYUidDZy66azps3hz_wwVb6nH_iU",
+          "anchor": "v-19fw7FYUidDZy66azps3hz_wwVb6nH_iU",
+          "href": "s4.html#v-19fw7FYUidDZy66azps3hz_wwVb6nH_iU"
+        },
+        {
+          "number": 56,
+          "title": "Route 53",
+          "id": "19_gKi13jz-1wrgjJ2hiNPc9zjnYzkBTN",
+          "anchor": "v-19_gKi13jz-1wrgjJ2hiNPc9zjnYzkBTN",
+          "href": "s4.html#v-19_gKi13jz-1wrgjJ2hiNPc9zjnYzkBTN"
+        },
+        {
+          "number": 57,
+          "title": "Direct Connect and Site-to-Site VPN",
+          "id": "13KrJN-zuHIMvCIZwaCwmXAhwqrNJF2gm",
+          "anchor": "v-13KrJN-zuHIMvCIZwaCwmXAhwqrNJF2gm",
+          "href": "s4.html#v-13KrJN-zuHIMvCIZwaCwmXAhwqrNJF2gm"
+        },
+        {
+          "number": 58,
+          "title": "Important Points to Remember Networking and Content Delivery",
+          "id": "13GtxSwemxOOI3SoxyIJPbeL2nuzxAD6h",
+          "anchor": "v-13GtxSwemxOOI3SoxyIJPbeL2nuzxAD6h",
+          "href": "s4.html#v-13GtxSwemxOOI3SoxyIJPbeL2nuzxAD6h"
+        },
+        {
+          "number": 59,
+          "title": "Databases in AWS",
+          "id": "13E8xxx8k6y_U_pliZYzZPfEt-GaQ7J0x",
+          "anchor": "v-13E8xxx8k6y_U_pliZYzZPfEt-GaQ7J0x",
+          "href": "s4.html#v-13E8xxx8k6y_U_pliZYzZPfEt-GaQ7J0x"
+        },
+        {
+          "number": 60,
+          "title": "RDS Amazon Relational Database Service",
+          "id": "13cH_hyb4I13umqTOt1Wj9z7ORLPLj-4v",
+          "anchor": "v-13cH_hyb4I13umqTOt1Wj9z7ORLPLj-4v",
+          "href": "s4.html#v-13cH_hyb4I13umqTOt1Wj9z7ORLPLj-4v"
+        },
+        {
+          "number": 61,
+          "title": "Demo Amazon RDS Creating and Connecting to a MySQL Database",
+          "id": "13P3JN_yZqk-34dAle172U73djzJotdOR",
+          "anchor": "v-13P3JN_yZqk-34dAle172U73djzJotdOR",
+          "href": "s4.html#v-13P3JN_yZqk-34dAle172U73djzJotdOR"
+        },
+        {
+          "number": 62,
+          "title": "Amazon Redshift",
+          "id": "139FRpfF9seO0hfzOansb2vgERLFNaUPj",
+          "anchor": "v-139FRpfF9seO0hfzOansb2vgERLFNaUPj",
+          "href": "s4.html#v-139FRpfF9seO0hfzOansb2vgERLFNaUPj"
+        },
+        {
+          "number": 63,
+          "title": "Amazon DynamoDB",
+          "id": "13auAgKaIwI6Z9sz6_GZjj2vVSQC4SJTg",
+          "anchor": "v-13auAgKaIwI6Z9sz6_GZjj2vVSQC4SJTg",
+          "href": "s4.html#v-13auAgKaIwI6Z9sz6_GZjj2vVSQC4SJTg"
+        },
+        {
+          "number": 64,
+          "title": "Demo Creating a DynamoDB Table",
+          "id": "13rvduXtXjg-Pxpri3xHSeIm681MxfpcY",
+          "anchor": "v-13rvduXtXjg-Pxpri3xHSeIm681MxfpcY",
+          "href": "s4.html#v-13rvduXtXjg-Pxpri3xHSeIm681MxfpcY"
+        },
+        {
+          "number": 65,
+          "title": "Amazon ElastiCache",
+          "id": "138Jg1Lu1GpkfQ6hl2ts-c1UJYtMTCnAi",
+          "anchor": "v-138Jg1Lu1GpkfQ6hl2ts-c1UJYtMTCnAi",
+          "href": "s4.html#v-138Jg1Lu1GpkfQ6hl2ts-c1UJYtMTCnAi"
+        },
+        {
+          "number": 66,
+          "title": "Amazon Neptune",
+          "id": "13TSVqAvdtY2O_-0_e8kUNV708rX0zXpE",
+          "anchor": "v-13TSVqAvdtY2O_-0_e8kUNV708rX0zXpE",
+          "href": "s4.html#v-13TSVqAvdtY2O_-0_e8kUNV708rX0zXpE"
+        },
+        {
+          "number": 67,
+          "title": "Important Points to Remember Databases",
+          "id": "13TOlL4DSPLsCZVe-UfyL7TDjuqzwdhl9",
+          "anchor": "v-13TOlL4DSPLsCZVe-UfyL7TDjuqzwdhl9",
+          "href": "s4.html#v-13TOlL4DSPLsCZVe-UfyL7TDjuqzwdhl9"
+        },
+        {
+          "number": 68,
+          "title": "Amazon Athena",
+          "id": "13qdsExI4MN-qVNemA06myz8X-y3rAJA5",
+          "anchor": "v-13qdsExI4MN-qVNemA06myz8X-y3rAJA5",
+          "href": "s4.html#v-13qdsExI4MN-qVNemA06myz8X-y3rAJA5"
+        },
+        {
+          "number": 69,
+          "title": "Kinesis Family of Services",
+          "id": "13ooX-eGh_tE0y_jwAdN3pihFPlzPfa2k",
+          "anchor": "v-13ooX-eGh_tE0y_jwAdN3pihFPlzPfa2k",
+          "href": "s4.html#v-13ooX-eGh_tE0y_jwAdN3pihFPlzPfa2k"
+        },
+        {
+          "number": 70,
+          "title": "Amazon QuickSight",
+          "id": "13ktQNnZPU5VxkFeX0PN6-bnZWchlOCr4",
+          "anchor": "v-13ktQNnZPU5VxkFeX0PN6-bnZWchlOCr4",
+          "href": "s4.html#v-13ktQNnZPU5VxkFeX0PN6-bnZWchlOCr4"
+        },
+        {
+          "number": 71,
+          "title": "Amazon EMR",
+          "id": "14HsJKfCxG9GhxLnLRFFePfBDodQHQVbm",
+          "anchor": "v-14HsJKfCxG9GhxLnLRFFePfBDodQHQVbm",
+          "href": "s4.html#v-14HsJKfCxG9GhxLnLRFFePfBDodQHQVbm"
+        },
+        {
+          "number": 72,
+          "title": "Important Points to Remember Analytics",
+          "id": "14EptaOwVnX5joPRWBbzg_yiKm5lU21v2",
+          "anchor": "v-14EptaOwVnX5joPRWBbzg_yiKm5lU21v2",
+          "href": "s4.html#v-14EptaOwVnX5joPRWBbzg_yiKm5lU21v2"
+        },
+        {
+          "number": 73,
+          "title": "CloudFormation",
+          "id": "14EUwbJ3A2DT8uUNwAqefJ9lMupK4PC47",
+          "anchor": "v-14EUwbJ3A2DT8uUNwAqefJ9lMupK4PC47",
+          "href": "s4.html#v-14EUwbJ3A2DT8uUNwAqefJ9lMupK4PC47"
+        },
+        {
+          "number": 74,
+          "title": "Demo Deploying a CloudFormation Template",
+          "id": "13sCosY79oUrD3Qh5BVAdfNuEXN5_yvAe",
+          "anchor": "v-13sCosY79oUrD3Qh5BVAdfNuEXN5_yvAe",
+          "href": "s4.html#v-13sCosY79oUrD3Qh5BVAdfNuEXN5_yvAe"
+        },
+        {
+          "number": 75,
+          "title": "AWS Service Catalog",
+          "id": "145O_6GicuNNVNymajxLiOHmZ8W-_hz_H",
+          "anchor": "v-145O_6GicuNNVNymajxLiOHmZ8W-_hz_H",
+          "href": "s4.html#v-145O_6GicuNNVNymajxLiOHmZ8W-_hz_H"
+        },
+        {
+          "number": 76,
+          "title": "AWS Systems Manager",
+          "id": "142L_m4MCtNDx93RSRKboP0U_1vuWzkcm",
+          "anchor": "v-142L_m4MCtNDx93RSRKboP0U_1vuWzkcm",
+          "href": "s4.html#v-142L_m4MCtNDx93RSRKboP0U_1vuWzkcm"
+        },
+        {
+          "number": 77,
+          "title": "Important Points to Remember DeployingManaging Infrastructure",
+          "id": "13tbKcwkL97tactGF1ACpMhQSM8euHo1-",
+          "anchor": "v-13tbKcwkL97tactGF1ACpMhQSM8euHo1-",
+          "href": "s4.html#v-13tbKcwkL97tactGF1ACpMhQSM8euHo1-"
+        },
+        {
+          "number": 78,
+          "title": "CloudWatch",
+          "id": "14PhHNG_yJ0llzTxNq999VR_p5RgQOa2b",
+          "anchor": "v-14PhHNG_yJ0llzTxNq999VR_p5RgQOa2b",
+          "href": "s4.html#v-14PhHNG_yJ0llzTxNq999VR_p5RgQOa2b"
+        },
+        {
+          "number": 79,
+          "title": "Demo Creating CloudWatch Alarms",
+          "id": "14SAW-tGbzmQjmkBaAslsY__0IkrlHvet",
+          "anchor": "v-14SAW-tGbzmQjmkBaAslsY__0IkrlHvet",
+          "href": "s4.html#v-14SAW-tGbzmQjmkBaAslsY__0IkrlHvet"
+        },
+        {
+          "number": 80,
+          "title": "CloudTrail",
+          "id": "14NIOWbwp87IICQS6edLHLzEIDwGGi1rV",
+          "anchor": "v-14NIOWbwp87IICQS6edLHLzEIDwGGi1rV",
+          "href": "s4.html#v-14NIOWbwp87IICQS6edLHLzEIDwGGi1rV"
+        },
+        {
+          "number": 81,
+          "title": "Demo Working with CloudTrail",
+          "id": "14Yg2ds777Gl4R0CzZHpa4AgjVZxrSMIx",
+          "anchor": "v-14Yg2ds777Gl4R0CzZHpa4AgjVZxrSMIx",
+          "href": "s4.html#v-14Yg2ds777Gl4R0CzZHpa4AgjVZxrSMIx"
+        },
+        {
+          "number": 82,
+          "title": "Personal Health and Service Health Dashboards",
+          "id": "14erDvuvg735cOODQwuNW2W49OgHOxw52",
+          "anchor": "v-14erDvuvg735cOODQwuNW2W49OgHOxw52",
+          "href": "s4.html#v-14erDvuvg735cOODQwuNW2W49OgHOxw52"
+        },
+        {
+          "number": 83,
+          "title": "Important Points to Remember Monitoring",
+          "id": "14tAAGhShvpZkTUPOPnX74siS6isJrQdT",
+          "anchor": "v-14tAAGhShvpZkTUPOPnX74siS6isJrQdT",
+          "href": "s4.html#v-14tAAGhShvpZkTUPOPnX74siS6isJrQdT"
+        },
+        {
+          "number": 84,
+          "title": "Amazon SQS Simple Queue Service",
+          "id": "14lf2jQwysu8kfmtZgqZxc3SxtfOJ58s1",
+          "anchor": "v-14lf2jQwysu8kfmtZgqZxc3SxtfOJ58s1",
+          "href": "s4.html#v-14lf2jQwysu8kfmtZgqZxc3SxtfOJ58s1"
+        },
+        {
+          "number": 85,
+          "title": "Demo Sending and Receiving Messages with SQS",
+          "id": "14gWhRNbnAhBMjphNyhDhvN67-i7dVc_M",
+          "anchor": "v-14gWhRNbnAhBMjphNyhDhvN67-i7dVc_M",
+          "href": "s4.html#v-14gWhRNbnAhBMjphNyhDhvN67-i7dVc_M"
+        },
+        {
+          "number": 86,
+          "title": "Amazon SNS Simple Notification Service",
+          "id": "14x-p358ypJUvG-boU-G1-JebDVe6V_4t",
+          "anchor": "v-14x-p358ypJUvG-boU-G1-JebDVe6V_4t",
+          "href": "s4.html#v-14x-p358ypJUvG-boU-G1-JebDVe6V_4t"
+        },
+        {
+          "number": 87,
+          "title": "Demo Sending an Email Using Amazon SNS",
+          "id": "14ztGBDavDfHzVOyQUS8GSnTVT5mvsW57",
+          "anchor": "v-14ztGBDavDfHzVOyQUS8GSnTVT5mvsW57",
+          "href": "s4.html#v-14ztGBDavDfHzVOyQUS8GSnTVT5mvsW57"
+        },
+        {
+          "number": 88,
+          "title": "Amazon EventBridge CloudWatch Events",
+          "id": "14zYz83Ra5yY1fB7ZU9jEBZnV-Xi49unq",
+          "anchor": "v-14zYz83Ra5yY1fB7ZU9jEBZnV-Xi49unq",
+          "href": "s4.html#v-14zYz83Ra5yY1fB7ZU9jEBZnV-Xi49unq"
+        },
+        {
+          "number": 89,
+          "title": "Important Points to Remember Application Integration",
+          "id": "150TrKqMw9EhSi54eurc9vN1cjd1vq5s5",
+          "anchor": "v-150TrKqMw9EhSi54eurc9vN1cjd1vq5s5",
+          "href": "s4.html#v-150TrKqMw9EhSi54eurc9vN1cjd1vq5s5"
+        },
+        {
+          "number": 90,
+          "title": "CodeCommit CodeBuild CodeDeploy CodePipeline CodeStar",
+          "id": "151-HSciyA5gYTt4O2FoXcOks63aoQ7QB",
+          "anchor": "v-151-HSciyA5gYTt4O2FoXcOks63aoQ7QB",
+          "href": "s4.html#v-151-HSciyA5gYTt4O2FoXcOks63aoQ7QB"
+        },
+        {
+          "number": 91,
+          "title": "Demo Working with CodeStar and Cloud9",
+          "id": "157AV4At8Mti8QNaNVazFJCDukIQQloAX",
+          "anchor": "v-157AV4At8Mti8QNaNVazFJCDukIQQloAX",
+          "href": "s4.html#v-157AV4At8Mti8QNaNVazFJCDukIQQloAX"
+        },
+        {
+          "number": 92,
+          "title": "Support Resources AWS Trusted Advisor AWS Support Plans",
+          "id": "157P4v9KYAvbv5RQ9NqJWIfcUzShiBHs2",
+          "anchor": "v-157P4v9KYAvbv5RQ9NqJWIfcUzShiBHs2",
+          "href": "s4.html#v-157P4v9KYAvbv5RQ9NqJWIfcUzShiBHs2"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "Billing and Pricing",
+      "page": "s5.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1ARZN7L_0HJInWPR_BMCmUDH7LLzQOnJD",
+          "anchor": "v-1ARZN7L_0HJInWPR_BMCmUDH7LLzQOnJD",
+          "href": "s5.html#v-1ARZN7L_0HJInWPR_BMCmUDH7LLzQOnJD"
+        },
+        {
+          "number": 2,
+          "title": "EC2 Pricing Models",
+          "id": "1ANu2dyQ1Q6RpjfDMQZiey7MuGihBr9Vg",
+          "anchor": "v-1ANu2dyQ1Q6RpjfDMQZiey7MuGihBr9Vg",
+          "href": "s5.html#v-1ANu2dyQ1Q6RpjfDMQZiey7MuGihBr9Vg"
+        },
+        {
+          "number": 3,
+          "title": "Accounts and Organizations",
+          "id": "1ADZguOpjaB94nO4ajDNzwxp9Xn3zGEIL",
+          "anchor": "v-1ADZguOpjaB94nO4ajDNzwxp9Xn3zGEIL",
+          "href": "s5.html#v-1ADZguOpjaB94nO4ajDNzwxp9Xn3zGEIL"
+        },
+        {
+          "number": 4,
+          "title": "Demo Working with Organizations Accounts and AWS Control Tower",
+          "id": "1ASJBMPFWwH4WXWyAoE8fHi3ZnYwq65ju",
+          "anchor": "v-1ASJBMPFWwH4WXWyAoE8fHi3ZnYwq65ju",
+          "href": "s5.html#v-1ASJBMPFWwH4WXWyAoE8fHi3ZnYwq65ju"
+        },
+        {
+          "number": 5,
+          "title": "Demo Working with the Billing Dashboard",
+          "id": "1ATuaxBNtGES04BNQY15HpF6HxNXaurxT",
+          "anchor": "v-1ATuaxBNtGES04BNQY15HpF6HxNXaurxT",
+          "href": "s5.html#v-1ATuaxBNtGES04BNQY15HpF6HxNXaurxT"
+        },
+        {
+          "number": 6,
+          "title": "Demo Working with AWS Cost Explorer",
+          "id": "1AUGL548Au8qndsj9idriTCaEOaweHn-R",
+          "anchor": "v-1AUGL548Au8qndsj9idriTCaEOaweHn-R",
+          "href": "s5.html#v-1AUGL548Au8qndsj9idriTCaEOaweHn-R"
+        },
+        {
+          "number": 7,
+          "title": "Demo Working with the AWS Pricing Calculator",
+          "id": "1Agqd7Jj3-5MGXkcMMaGIrTjlwd_kCnUD",
+          "anchor": "v-1Agqd7Jj3-5MGXkcMMaGIrTjlwd_kCnUD",
+          "href": "s5.html#v-1Agqd7Jj3-5MGXkcMMaGIrTjlwd_kCnUD"
+        },
+        {
+          "number": 8,
+          "title": "AWS Budgets and Billing AlertsAlarms",
+          "id": "1A_Ul5eWF4ZXBOv8v-B1g8-weH0XQ_Ftw",
+          "anchor": "v-1A_Ul5eWF4ZXBOv8v-B1g8-weH0XQ_Ftw",
+          "href": "s5.html#v-1A_Ul5eWF4ZXBOv8v-B1g8-weH0XQ_Ftw"
+        },
+        {
+          "number": 9,
+          "title": "Demo Setting up AWS Budgets and CloudWatch Billing AlertsAlarms",
+          "id": "1Ajf7B2YkpGwIHj2h_2GosZsz6dDQMfbK",
+          "anchor": "v-1Ajf7B2YkpGwIHj2h_2GosZsz6dDQMfbK",
+          "href": "s5.html#v-1Ajf7B2YkpGwIHj2h_2GosZsz6dDQMfbK"
+        },
+        {
+          "number": 10,
+          "title": "IMPORTANT Deleting Resources Used in the Course",
+          "id": "1AkBFSAK6szt0zjdpxednLILMtOymnWOh",
+          "anchor": "v-1AkBFSAK6szt0zjdpxednLILMtOymnWOh",
+          "href": "s5.html#v-1AkBFSAK6szt0zjdpxednLILMtOymnWOh"
+        },
+        {
+          "number": 11,
+          "title": "Important Points to Remember Billing and Pricing",
+          "id": "1Ap_yXlynB7TGuWalv4I1a2G-NRCRVlNW",
+          "anchor": "v-1Ap_yXlynB7TGuWalv4I1a2G-NRCRVlNW",
+          "href": "s5.html#v-1Ap_yXlynB7TGuWalv4I1a2G-NRCRVlNW"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Preparing for the Exam",
+      "page": "s6.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Introduction",
+          "id": "1BTIuo5anCkVBbOAhqJXMYDoQw2_D-4oF",
+          "anchor": "v-1BTIuo5anCkVBbOAhqJXMYDoQw2_D-4oF",
+          "href": "s6.html#v-1BTIuo5anCkVBbOAhqJXMYDoQw2_D-4oF"
+        },
+        {
+          "number": 2,
+          "title": "Demo Reviewing the Exam Guide and Sample Questions",
+          "id": "1BG0-OUExT_aGr2WyYfLA2BhYH2l4C_U3",
+          "anchor": "v-1BG0-OUExT_aGr2WyYfLA2BhYH2l4C_U3",
+          "href": "s6.html#v-1BG0-OUExT_aGr2WyYfLA2BhYH2l4C_U3"
+        },
+        {
+          "number": 3,
+          "title": "Test-Taking Strategies and Tips",
+          "id": "1BWogDQ0069QZtY14cf5qeC9XRCzeUUlg",
+          "anchor": "v-1BWogDQ0069QZtY14cf5qeC9XRCzeUUlg",
+          "href": "s6.html#v-1BWogDQ0069QZtY14cf5qeC9XRCzeUUlg"
+        },
+        {
+          "number": 4,
+          "title": "Demo Registering for the Exam Cost and Vouchers",
+          "id": "1BPrvbRnATrbvWwTbnMTOysJ2obkTUFHr",
+          "anchor": "v-1BPrvbRnATrbvWwTbnMTOysJ2obkTUFHr",
+          "href": "s6.html#v-1BPrvbRnATrbvWwTbnMTOysJ2obkTUFHr"
+        },
+        {
+          "number": 5,
+          "title": "Exam Day What To Expect",
+          "id": "1B_1VgoYePm2SeHeync5POJw0O7MI7Xia",
+          "anchor": "v-1B_1VgoYePm2SeHeync5POJw0O7MI7Xia",
+          "href": "s6.html#v-1B_1VgoYePm2SeHeync5POJw0O7MI7Xia"
+        },
+        {
+          "number": 6,
+          "title": "Next Steps",
+          "id": "1BZi-WfM9SHhitNOeI5Xa9QM_1pZlsM2w",
+          "anchor": "v-1BZi-WfM9SHhitNOeI5Xa9QM_1pZlsM2w",
+          "href": "s6.html#v-1BZi-WfM9SHhitNOeI5Xa9QM_1pZlsM2w"
+        }
+      ]
+    }
+  ]
+}
